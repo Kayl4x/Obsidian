@@ -4,11 +4,8 @@ Before I die: [before i die](before%20i%20die.md)
 
 # Personal
 ### Thoughts & writings
-#### On Emotions
-[index of emotions](index%20of%20emotions.md)
-#### Literary analysis
-1) [Animal Farm -- Orwell](Animal%20Farm%20--%20Orwell.md)
-
+#### On Emotions [index of emotions](index%20of%20emotions.md)
+#### Literary analysis  [Index of literary analysis](Index%20of%20literary%20analysis.md)
 # Work/Studying
 #### Mocks
 ###### Grade 9
