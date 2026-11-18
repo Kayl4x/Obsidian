@@ -1,1 +1,1 @@
-### Index of Mocks 
+### Index of Mocks [Studying Mock Index](Studying%20Mock%20Index.md)
