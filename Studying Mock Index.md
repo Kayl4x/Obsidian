@@ -1,4 +1,0 @@
-### Grade 9
-##### math
-[Grade 9 Mathematics Paper 1 Memo](Grade%209%20Mathematics%20Paper%201%20Memo.md)
-
