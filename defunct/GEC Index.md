@@ -18,7 +18,6 @@
 <mark style="background: #FFB8EBA6;">Afrikaans:</mark>
 - [afrikaans oral g9t4](afrikaans%20oral%20g9t4.md)
 
-### Orals
-[Index of Orals](Index%20of%20Orals.md)
-### Projects[Index of Projects](Index%20of%20Projects.md)
+### Orals [Index of Orals](Index%20of%20Orals.md)
+### Projects [Index of Projects](Index%20of%20Projects.md)
 
