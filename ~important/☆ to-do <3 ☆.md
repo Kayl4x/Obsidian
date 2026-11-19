@@ -175,3 +175,4 @@ libre graphic desing program hat isnt gimp for gods sake
 fix rclone
 cursor blur for niri
 #FAFAED wallpaper since no one has any 
+add blur to vesktop theme or niri
