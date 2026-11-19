@@ -464,5 +464,9 @@ makes business operation run smoohtky
         =less issues
         = yay~!!!!
 
-
+handles all the money within the business
+manges the budget
+cash flow
+expenses and income
+inv
 
