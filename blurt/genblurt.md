@@ -446,10 +446,12 @@ prod
 hr
 pr
 gm
+purchasing
 
----
-handling of info
-distributing info
-analysing and storing info
-daily tasks like photocopying
-
+1) pruchasing 
+2) hr 
+3) prod
+4) fin
+5) gm
+6)  pr
+7) a
