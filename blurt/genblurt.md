@@ -473,27 +473,27 @@ gm
 detects fraud and mismanagement + identifies expenses + taxes
 
 -----
-keeps mroality high
-recruting and hiring staff
-management of staff elave
-workplace security
-dismissla of staff
-maintaining good labour relations
-1) recruiting and hiring staff
-2) manintaining good labour relations
-3) complying with legislation
-4) dismissla of staff
-5) adminstration of staff leave
-6) workpalce security
+~~keeps mroality high~~
+~~recruting and hiring staff~~
+~~management of staff elave~~
+~~workplace security~~
+~~dismissla of staff~~
+~~maintaining good labour relations~~
+1) ~~recruiting and hiring staff~~
+2) ~~manintaining good labour relations~~
+3) ~~complying with legislation~~
+4) ~~dismissla of staff~~
+5) ~~adminstration of staff leave~~
+6) ~~workpalce security~~
 
     ---------
-pr
-good image of the business to the public
-advising senior management on how to promote public image
-pr and advertising
+~~pr~~
+~~good image of the business to the public~~
+~~advising senior management on how to promote public image~~
+~~pr and advertising~~
 
-advertising
-adv senior man 
-good image of brand to public
-
+~~advertising~~
+~~adv senior man~~ 
+~~good image of brand to public~~
+~~csr: getting involved in local projects to help the community~~
 
