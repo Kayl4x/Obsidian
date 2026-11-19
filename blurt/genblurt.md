@@ -434,3 +434,6 @@ chars:
 ~~\*gestures ambiguously\* there's something there~~
 
 water vapour 
+
+the process by which a person organised resources, plans activities and _guides the business to achieve its goals_
+the process by which a persoin plans activities, organises reosurces and guidses y the business to achieve tis goals.
