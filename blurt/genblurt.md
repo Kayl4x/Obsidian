@@ -480,4 +480,10 @@ workplace security
 dismissla of staff
 maintaining good labour relations
 1) recruiting and hiring staff
-2) manintaining good la
+2) manintaining good labour relations
+3) complying with legislation
+4) dismissla of staff
+5) adminstration of staff leave
+6) workpalce security
+
+
