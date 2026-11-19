@@ -460,5 +460,9 @@ storing analysing info effec
 daily tasks
 plannign
 
+makes business operation run smoohtky
+        =less issues
+        = yay~!!!!
+
 
 
