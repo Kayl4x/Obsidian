@@ -486,4 +486,14 @@ maintaining good labour relations
 5) adminstration of staff leave
 6) workpalce security
 
+---------
+pr
+good image of the business to the public
+advising senior management on how to promote public image
+pr and advertising
+
+advertising
+adv senior man 
+good image of brand to public
+
 
