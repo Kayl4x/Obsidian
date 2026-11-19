@@ -472,4 +472,12 @@ gm
 ~~taxes~~
 detects fraud and mismanagement + identifies expenses + taxes
 
-
+-----
+keeps mroality high
+recruting and hiring staff
+management of staff elave
+workplace security
+dismissla of staff
+maintaining good labour relations
+1) recruiting and hiring staff
+2) manintaining good la
