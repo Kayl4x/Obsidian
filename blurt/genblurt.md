@@ -437,3 +437,5 @@ water vapour
 
 the process by which a person organised resources, plans activities and _guides the business to achieve its goals_
 the process by which a persoin plans activities, organises reosurces and guidses y the business to achieve tis goals.
+
+target market: the demographic of consumers to whom the business wants to advertise and sell products to
