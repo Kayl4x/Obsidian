@@ -497,3 +497,5 @@ detects fraud and mismanagement + identifies expenses + taxes
 ~~good image of brand to public~~
 ~~csr: getting involved in local projects to help the community~~
 
+qualtiy control: inspection of the final product to ensure that it meets the required standards
+quality ASSURANCE:
