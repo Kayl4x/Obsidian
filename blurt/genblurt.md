@@ -498,4 +498,5 @@ detects fraud and mismanagement + identifies expenses + taxes
 ~~csr: getting involved in local projects to help the community~~
 
 qualtiy control: inspection of the final product to ensure that it meets the required standards
-quality ASSURANCE:
+quality ASSURANCE: process performed during and after the production to make sure that the required standards are met with every step
+process performed during the production process to make sure that the required standards are met with every step of the production process.
