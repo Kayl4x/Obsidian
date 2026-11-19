@@ -433,40 +433,43 @@ chars:
 ~~"regulates me"~~
 ~~\*gestures ambiguously\* there's something there~~
 
-water vapour 
+~~water vapour~~ 
 
-the process by which a person organised resources, plans activities and _guides the business to achieve its goals_
-the process by which a persoin plans activities, organises reosurces and guidses y the business to achieve tis goals.
+~~the process by which a person organised resources, plans activities and _guides the business to achieve its goals_~~
+~~the process by which a persoin plans activities, organises reosurces and guidses y the business to achieve tis goals.~~
 
-target market: the demographic of consumers to whom the business wants to advertise and sell products to
+~~target market: the demographic of consumers to whom the business wants to advertise and sell products to~~
 
-admin
-fin
-prod
-hr
-pr
+~~admin~~
+~~fin~~
+~~prod~~
+~~hr~~
+~~pr~~
 gm
 
 ---
-handling of info
-distributing info
-analysing and storing info
-daily tasks like photocopying
-planning
+~~handling of info~~
+~~distributing info~~
+~~analysing and storing info~~
+~~daily tasks like photocopying~~
+~~planning~~
 
-handling of info
-distrib info
-storing analysing info effec
-daily tasks
-plannign
+~~handling of info~~
+~~distrib info~~
+~~storing analysing info effec~~
+~~daily tasks~~
+~~plannign~~
 
-makes business operation run smoohtky
-        =less issues
-        = yay~!!!!
+~~makes business operation run smoohtky~~
+        ~~=less issues~~
+        ~~= yay~!!!!~~
 
-handles all the money within the business
-manges the budget
-cash flow
-expenses and income
-inv
+~~handles all the money within the business~~
+~~manges the budget~~
+~~cash flow~~
+~~expenses and income~~
+~~investments~~
+~~taxes~~
+detects fraud and mismanagement + identifies expenses + taxes
+
 
