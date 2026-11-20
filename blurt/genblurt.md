@@ -497,6 +497,9 @@ detects fraud and mismanagement + identifies expenses + taxes
 ~~good image of brand to public~~
 ~~csr: getting involved in local projects to help the community~~
 
-qualtiy control: inspection of the final product to ensure that it meets the required standards
-quality ASSURANCE: process performed during and after the production to make sure that the required standards are met with every step
-process performed during the production process to make sure that the required standards are met with every step of the production process.
+~~qualtiy control: inspection of the final product to ensure that it meets the required standards~~
+~~quality ASSURANCE: process performed during and after the production to make sure that the required standards are met with every step~~
+~~process performed during the production process to make sure that the required standards are met with every step of the production process.~~
+
+he accused the anc of betraying the goal of freedom of black people. he did not want equal rights for all races, believed that the interests of black people came first, did not support the freedom charter or working with white, or indian people.
+Preferred mass violent action over peaceful civil disobedience
