@@ -23,79 +23,34 @@
 - [ ] Make photobook
 # <mark style="background: #FFB8EBA6;">Studying</mark>
 ### Study routine
-1) [x] Math ✅ 2026-11-02
-- P1: Abstract/algebra ~ <mark style="background: #FFB8EBA6;">13/11</mark>
-- P2: Geometry ~ <mark style="background: #FFB8EBA6;">16/11</mark>
-- importance: 10
-- difficulty: 8
-- amount: 8
 
-1) [x] Physical Sciences <mark style="background: #FFB8EBA6;">19/11</mark> ✅ 2026-10-26
-- importance: 10
-- difficulty: 10
-- amount: 9
-
-1) [ ] Life Sciences <mark style="background: #FFB8EBA6;">19/11</mark>
-- importance: 10
-- difficulty:8
-- amount: 10
-
-1) [x] English <mark style="background: #FFB8EBA6;">10/11</mark> ✅ 2026-10-24
-- importance: 8
-- difficulty: 8
-- amount: 8
-
-1) [ ] Afrikaans <mark style="background: #FFB8EBA6;">18/11</mark>
-- importance: 9
-- difficulty: 7
-- amount: 6
-
-1) [ ] Accounting <mark style="background: #FFB8EBA6;">17/11</mark>
-- importance: 7
-- difficulty: 8
-- amount: 9
-- 
-1) [x] Technology <mark style="background: #FFB8EBA6;">26/11</mark> ✅ 2026-11-02
+1) [ ] Technology <mark style="background: #FFB8EBA6;">26/11</mark>
 - importance: 8
 - difficulty: 7
 - amount: 8
 
-1) [x] History <mark style="background: #FFB8EBA6;">23/11</mark> ✅ 2026-11-05
+2) [ ] History <mark style="background: #FFB8EBA6;">23/11</mark>
 - importance: 7
 - difficulty: 6
 - amount: 10
 
-1)  [ ] Business Studies <mark style="background: #FFB8EBA6;">20/11</mark>
-- importance: 6
-- difficulty: 8
-- amount: 8
-
-2) [ ] Geography <mark style="background: #FFB8EBA6;">23/11</mark>
-- importance: 7
-- difficulty: 7
-- amount: 9
-
-1) [ ] Visual Art <mark style="background: #FFB8EBA6;">24/11</mark>
-- importance: 6
-- difficulty: 6
-- amount: 9
-
-1) [ ] Music <mark style="background: #FFB8EBA6;">25/11</mark>
+3) [ ] Music <mark style="background: #FFB8EBA6;">25/11</mark>
 - importance: 5
 - difficulty: 5
 - amount: 7
 
+1) [ ] Visual Art
 # <mark style="background: #FFB8EBA6;">Media to consume</mark>
 ## Music
  1) [ ] ~~crowbar~~
  2) [ ] ~~nightfreak~~
- 3) [ ] nocturnal depression
- 4) [ ] closure in Moscow
+ 3) [x] nocturnal depression ✅ 2026-11-20
+ 4) [x] closure in Moscow ✅ 2026-11-20
  5) [ ] Convulsing Equanimity by Wreathed
  6) [ ] [https://coffretdebijoux.bandcamp.com/album/intablej-u-ana](https://coffretdebijoux.bandcamp.com/album/intablej-u-ana "https://coffretdebijoux.bandcamp.com/album/intablej-u-ana") 
  7) [ ] [https://coffretdebijoux.bandcamp.com/album/i-look-for-you-everywhere](https://coffretdebijoux.bandcamp.com/album/i-look-for-you-everywhere "https://coffretdebijoux.bandcamp.com/album/i-look-for-you-everywhere")
  8) [ ] asunojokei - island
- 9) [ ] Austere
+ 9) [x] Austere ✅ 2026-11-20
 10) [ ] woods of desolation
 11) [ ] mesarthim
 12) [ ] Altar of Plagues - Mammal (atmoblack/post-black)
@@ -103,7 +58,7 @@
 14) [ ] Celephaïs - Monad (atmoblack/blackgaze)
 15) [x] Deafheaven - Sunbather (blackgaze/post-black) ✅ 2026-11-06
 16) [ ] Entropia - Vesper (atmosludge/post-metal/blackgaze)
-17) [ ] Harakiri for the Sky - III: Trauma (post-black/blackgaze)
+17) [x] Harakiri for the Sky - III: Trauma (post-black/blackgaze) ✅ 2026-11-20
 18) [ ] Lantlôs - .neon (blackgaze/post-black)
 19) [ ] Olhava - Frozen Bloom (atmoblack/doom/blackgaze)
 20) [ ] Rozh - Всё (post-black/doom/blackgaze)
