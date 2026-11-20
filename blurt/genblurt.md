@@ -503,3 +503,6 @@ detects fraud and mismanagement + identifies expenses + taxes
 
 he accused the anc of betraying the goal of freedom of black people. he did not want equal rights for all races, believed that the interests of black people came first, did not support the freedom charter or working with white, or indian people.
 Preferred mass violent action over peaceful civil disobedience
+
+accused the anc of betraying the goal of freedom of black people, preferred mass violent action over civil disobedience, believed black peoples interests should come first, didnt like mandela because mandela wanted the support of white and indian people, disliked the freedom charter as he did not want unity amongst all races
+
