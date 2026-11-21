@@ -506,5 +506,5 @@ detects fraud and mismanagement + identifies expenses + taxes
 
 ~~accused the anc of betraying the goal of freedom of black people, preferred mass violent action over civil disobedience, believed black peoples interests should come first, didnt like mandela because mandela wanted the support of white and indian people, disliked the freedom charter as he did not want unity amongst all races~~
 
-
+willie bester the cucj
 
