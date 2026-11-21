@@ -39,7 +39,15 @@
 - difficulty: 5
 - amount: 7
 
-1) [ ] Visual Art
+1) [ ] Visual Art <mark style="background: #FFB8EBA6;">24/11</mark>
+- importance: 3
+- difficulty: 5
+- amount: 7
+
+1) [ ] life orientation <mark style="background: #FFB8EBA6;">27/11</mark>
+- importance: 3
+- difficulty: 5
+- amount: 7
 # <mark style="background: #FFB8EBA6;">Media to consume</mark>
 ## Music
  1) [ ] ~~crowbar~~
