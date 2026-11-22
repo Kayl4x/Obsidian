@@ -519,4 +519,4 @@ there were varying versions of the events. polcie had claimed that the protestor
 
 in cape town, philip kgosana led 5000 people. Per the PAC, they tried to be arrested for not carrying passes, but the police couldnt arrest that many people. violence broke out and 2 protestors were killed. One week after, 30k people gathered to march to protest the massacre in sharpeville. phillip was arrested.
 
-the anc was founded in 1912 to represent black southa fricans. in 1959 robert sobukwe founded the pac, believing the anc to have abandoned the goals of black people. he preferred
+the anc was founded in 1912 to represent black southa fricans. in 1959 robert sobukwe founded the pac, believing the anc to have abandoned the goals of black people. he preferred mass action over civil disobedience and disliked the freedom charter, due to not liking racial unity. he did not like mandela, as he wanted support form indian and white people.
