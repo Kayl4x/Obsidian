@@ -534,6 +534,7 @@ caused mostly by the bantu education act, which forced people to learn in afrika
 genuinely such a dumb implementation
 fucking retards
 
+tsietsi mashinini
 
 
 
