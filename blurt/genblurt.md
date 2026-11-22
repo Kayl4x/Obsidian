@@ -509,4 +509,4 @@ detects fraud and mismanagement + identifies expenses + taxes
 willie bester the cucj
 used mixed media and assemblage from discarded items to make sociopolitical commentary on south african apartheid and oppression by focusing on every day scenes.
 
-the anc was founded in 1912 to represent black south africans. in 1959 robert sobukwe founded the
+the anc was founded in 1912 to represent black south africans. in 1959 robert sobukwe founded the pac, because he didnt like the anc. he felt that the anc had abandoned the goal of freedom for black people. he did not like mandela, as mandela wanted support from white and indian people. sobukwe did not like the freedom charter as he opposed unity amongst 
