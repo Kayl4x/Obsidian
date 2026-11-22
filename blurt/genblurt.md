@@ -539,6 +539,8 @@ steve biko
 
 soweto uprising key instigators were tsietsi mashinini and steve biko
 
+16 june 1976
+member the sharpeville massa happened on 20 march 1960
 
 
 
