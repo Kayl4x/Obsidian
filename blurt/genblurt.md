@@ -552,6 +552,10 @@ assembly white
 reps coloured
 delegates indian
 
+people boycotted, protested, and striked to protest the discrim
+allan boesak
+allan boesak founded the united democratic front to challenge the tricameral parliament, for not representing blakc people.
+allan boesak, founder of the united democratic front, founded the udff to challenge the tricameral parliament and fight for black peoples representation.
 
 
 
