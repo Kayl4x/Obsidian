@@ -525,3 +525,4 @@ steve biko founded the black consciousness movement in 1968
 8 years after sharpeville
 wanted people to question status quo. targeted uni students and schoolchildren
 instigator of 1976 soweto uprising. arrested thereafter and died from police abuse
+
