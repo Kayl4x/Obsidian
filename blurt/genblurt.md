@@ -526,3 +526,30 @@ steve biko founded the black consciousness movement in 1968
 wanted people to question status quo. targeted uni students and schoolchildren
 instigator of 1976 soweto uprising. arrested thereafter and died from police abuse
 
+sowataaaoo
+i hate thsi subject
+
+--
+caused mostly by the bantu education act, which forced people to learn in afrikaans. most black people couldnt speak afrikaans
+genuinely such a dumb implementation
+fucking retards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
