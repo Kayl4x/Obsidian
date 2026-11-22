@@ -521,3 +521,6 @@ detects fraud and mismanagement + identifies expenses + taxes
 
 ~~the anc was founded in 1912 to represent black southa fricans. in 1959 robert sobukwe founded the pac, believing the anc to have abandoned the goals of black people. he preferred mass action over civil disobedience and disliked the freedom charter, due to not liking racial unity. he did not like mandela, as he wanted support form indian and white people. he believed black peoples interests should come first.~~
 
+steve biko founded the black consciousness movement in 1968
+8 years after sharpeville
+wanted people to que
