@@ -1,4 +1,4 @@
-i wanna: 
+i want to
 - [ ] wear a skirt
 - [ ] experience bliss, even if once, even if temporarily.
 - [ ] make someone's life a bit better atleast
