@@ -535,6 +535,9 @@ genuinely such a dumb implementation
 fucking retards
 
 tsietsi mashinini
+steve biko
+
+soweto uprising key instigators were tsietsi mashinini and steve biko
 
 
 
