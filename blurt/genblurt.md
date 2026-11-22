@@ -518,3 +518,5 @@ people in sharpeville, vereeniging, decided to protest against the pass laws. th
 there were varying versions of the events. polcie had claimed that the protestors were throwing rocks at them and made violent remarks. however, photos of the protest hsow no evidence of violent weapons. no one dared to testify.
 
 in cape town, philip kgosana led 5000 people. Per the PAC, they tried to be arrested for not carrying passes, but the police couldnt arrest that many people. violence broke out and 2 protestors were killed. One week after, 30k people gathered to march to protest the massacre in sharpeville. phillip was arrested.
+
+the anc was founded in 1912 to represent black southa fricans. in 1959 robert sobukwe founded the pac, believing the anc to have abandoned the goals of black people.
