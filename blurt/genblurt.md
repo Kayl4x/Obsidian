@@ -515,4 +515,4 @@ during the 1950s the gov made it compulsory for black people to carry passes. th
 
 people in sharpeville, vereeniging, decided to protest against the pass laws. the anc planned a march for 30 march 1960. robert sobukwe decided to plan a PAC march 10 days earlier, the 20th. In cape town, phillip kgosana planned a PAC march of 5000 people aswell. On the 20th of march, 1960, 7000 people gathered atht ehs sharpeville ps. PAC members diverted buses and cut powerlines. by 10:00 around 20k people had gathered. there were only 30 policemen. by the time 300 more had arrived, the crowd had started chanting izwe luthu, meaning our land. a scuffle broke out and one of the police officers fired. the other officers fired aswell. people tried to escape but couldnt due to the large crowd. 69 people died and 180 were injured.
 
-there were varying versions of the events. polcie had claimed that t
+there were varying versions of the events. polcie had claimed that the protestors were throwing rocks at them and made violent remarks. however, photos of the protest hsow no evidence of violent weapons. no one dared to tes
