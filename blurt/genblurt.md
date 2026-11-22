@@ -541,8 +541,16 @@ soweto uprising key instigators were tsietsi mashinini and steve biko
 
 16 june 1976
 member the sharpeville massa happened on 20 march 1960
+in the 80s, under P.W. Botha, discrimination intensified. the government claiemd that communists were using blakc sotuh africans to take over the country (??? lmao)
 
+military service became compulsory for all young white men. the government created the tricameral parliament.to represent coloured and indian people. it did fuck all lmaooo
+house of assembly white
+house of delegates indian
+house of representatives coloured
 
+assembly white
+reps coloured
+delegates indian
 
 
 
