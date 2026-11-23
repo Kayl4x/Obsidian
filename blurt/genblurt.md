@@ -578,6 +578,10 @@ evceryday scenes
 strong and vibrant colours
 
 polly art centre type shit oui oui
+johannesburg
+painting and drawing
+developing artists' skills.
+why important type shit
 
 
 
