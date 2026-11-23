@@ -557,6 +557,12 @@ allan boesak
 allan boesak founded the united democratic front to challenge the tricameral parliament, for not representing blakc people.
 allan boesak, founder of the united democratic front, founded the udff to challenge the tricameral parliament and fight for black peoples representation.
 
+-----
+early south african art
+simplified figures
+everday scenes
+vibrant colours
+*visible brushwork and texture*
 
 
 
