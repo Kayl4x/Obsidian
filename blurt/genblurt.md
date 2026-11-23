@@ -570,6 +570,14 @@ strong and vibrant colours
 simplified figures
 simplified space
 
+gerard sekoto
+simplified figures
+simplified and flattened space
+simplified figres
+evceryday scenes
+strong and vibrant colours
+
+
 
 
 
