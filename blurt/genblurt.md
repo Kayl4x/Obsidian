@@ -562,9 +562,13 @@ early south african art
 simplified figures
 everday scenes
 vibrant colours
-*visible brushwork and texture*
+*visiblebrushwork and texture*
+_vmd1_
 
-
+everyday scenes visible brushwork texture
+strong and vibrant colours
+simplified figures
+simplified space
 
 
 
