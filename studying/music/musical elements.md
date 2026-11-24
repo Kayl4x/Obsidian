@@ -1,9 +1,7 @@
 i lost my notes
 i hate this subject
-
-**Rhythm**: when a sound should be played and how long it should last
-think about a heartbeat
-~~
+https://www.hoffmanacademy.com/blog/elements-of-music
 **Pitch**: the highness or lowness of a sound (as described by its frequency)
-~~
-**Melody**: sequence of notes that create a recognizable tune
+Dynamics: volume. its just volume. how loud or soft/quiet a particular note or sound is.
+Duration: how long a note is played for
+Tempo: how fast notes are to be played, and if in constant, increasing or decreas
