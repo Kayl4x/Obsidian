@@ -1,6 +1,6 @@
 i lost my notes
 i hate this subject
-
+-
 ***Music***: arranged sounds of different pitch and duration that creates musical unity
 
 ***Pitch***: how high or low sounds are (frequency)
