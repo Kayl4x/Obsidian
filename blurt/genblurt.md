@@ -597,9 +597,11 @@ apply oil-based primer
 wait 24h to dry and apply second primer
 apply top coat of paint once the primer dries.
 
-clean
-oil-based primer
-24h dry
-oil based primer
-24h dry
-top coat
+to galvanise (sacrificial layer on top via dipping)
+1) metal washed in hot alkaline solution
+2) metal is washed in acid solution.
+3) metal is dipped into zinc ammonium chloride.
+4) metal is dipped into molten zinc (sac layer)
+5) excess zinc is removed and the object cools.
+6) object is examined
+   7) 
