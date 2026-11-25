@@ -583,18 +583,7 @@ painting and drawing
 developing artists' skills.
 why important type shit
 
-Study *EVERYTHING* on the demarcation with special focus on these modules. 
-
-*  Electrical circuits 
-* Symbols / name them (functions).
-* Colour code of resistors 
-* Preservation of food (in detail) 
-* Preservation of metals.
-* plastics
-* Design brief
-* Know Ohm’s Law.
-
-
+constraint: restrictions and/or limitations which the solution must satisfy.
 
 
 
