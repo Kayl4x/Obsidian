@@ -582,11 +582,21 @@ johannesburg
 painting and drawing
 developing artists' skills.
 why important type shit
+:lesb:lesb:lesb:lesb:lesb:lesb
 
 
+:lesb:lesb:lesb:lesb:lesb:lesb:lesb
 
+Study *EVERYTHING* on the demarcation with special focus on these modules. 
 
-
+*  Electrical circuits 
+* Symbols / name them (functions).
+* Colour code of resistors 
+* Preservation of food (in detail) 
+* Preservation of metals.
+* plastics
+* Design brief
+* Know Ohm’s Law.
 
 
 
