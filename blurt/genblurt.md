@@ -597,3 +597,9 @@ apply oil-based primer
 wait 24h to dry and apply second primer
 apply top coat of paint once the primer dries.
 
+clean
+oil-based primer
+24h dry
+oil based primer
+24h dry
+top coat
