@@ -587,5 +587,13 @@ constraint: restrictions and/or limitations which the solution must satisfy.
 
 two metal plates separated by a thin layer of insulating material
 
+painting 
+galvanising
+electroplating
 
+to paint:
+clean the surface
+apply oil-based primer
+wait 24h to dry and apply second primer
+apply top coat of paint once the primer dries.
 
