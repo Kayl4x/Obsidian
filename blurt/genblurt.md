@@ -607,3 +607,9 @@ to galvanise (sacrificial layer on top via dipping)
 		1) object is washed in hot alklaine solution
 		2) washed in acid solution
 		3) dipped in zinc ammonium chloride
+		4) dipped in molten zinc
+		5) excess zinc removed and cooled
+		6) inspected
+
+--------
+1) 
