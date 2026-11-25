@@ -604,4 +604,6 @@ to galvanise (sacrificial layer on top via dipping)
 4) metal is dipped into molten zinc (sac layer)
 5) excess zinc is removed and the object cools.
 6) object is examined
-   7) 
+		1) object is washed in hot alklaine solution
+		2) washed in acid solution
+		3) dipped in zinc ammonium chloride
