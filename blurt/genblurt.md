@@ -585,7 +585,7 @@ why important type shit
 
 constraint: restrictions and/or limitations which the solution must satisfy.
 
-
+two metal plates separated by a thin layer of insulating material
 
 
 
